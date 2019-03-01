@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/react.js"],"names":["ReactDOM","render","document","getElementById"],"mappings":";;AAAA;;AAEAA,gBAASC,MAAT,CACE,gDADF,EAEEC,QAAQ,CAACC,cAAT,CAAwB,MAAxB,CAFF","sourcesContent":["import { ReactDOM } from 'react'\n\nReactDOM.render(\n  <h1>Hello, world!</h1>,\n  document.getElementById('root')\n);"],"file":"react.js"}

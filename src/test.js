@@ -1,0 +1,1 @@
+const doIt = ({first, second, third}) => `${first} - ${second} - ${third}`
